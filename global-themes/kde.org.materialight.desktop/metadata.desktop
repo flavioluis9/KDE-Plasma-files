@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=light variant of materia
+Name=materia-light
+X-KDE-PluginInfo-Author=me
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=me
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL 2.1+
+X-KDE-PluginInfo-Name=kde.org.materialight.desktop
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=me
+X-KDE-ServiceTypes=Plasma/LookAndFeel
