@@ -1,0 +1,3 @@
+ kvantummanager --set MateriaLight ; lookandfeeltool --apply kde.org.materialight.desktop
+
+kvantummanager --set MateriaDark ; lookandfeeltool --apply com.github.varlesh.materia
