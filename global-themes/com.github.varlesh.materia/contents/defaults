@@ -2,7 +2,7 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=MateriaDark
+ColorScheme=MateriaDarker
 
 [kdeglobals][Icons]
 Theme=Papirus-Dark
